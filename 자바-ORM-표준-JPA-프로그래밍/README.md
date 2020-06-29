@@ -3,6 +3,7 @@
 <p align="center">
     <img src="../images/자바-ORM-표준-JPA-프로그래밍/book-cover.jpeg" alt="자바 ORM 표준 JPA 프로그래밍 표지" width="40%" />
 </p>
+
 <br/>
 
 ## Contents
